@@ -1,0 +1,193 @@
+Resource,Check Title
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Check if IAM Access Analyzer is enabled
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Check if IAM Access Analyzer is enabled without findings
+arn:aws:lambda:us-east-1:1234567890:function:integ-data-services-elastic-search,Check if API Gateway has configured authorizers.
+arn:aws:lambda:us-east-1:1234567890:function:dev-data-services-elastic-search,Check if API Gateway has configured authorizers.
+arn:aws:lambda:us-east-1:1234567890:function:integ-data-services-elastic-search,Check if API Gateway Stage has client certificate enabled to access your backend endpoint.
+arn:aws:lambda:us-east-1:1234567890:function:dev-data-services-elastic-search,Check if API Gateway Stage has client certificate enabled to access your backend endpoint.
+arn:aws:lambda:us-east-1:1234567890:function:integ-data-services-elastic-search,Check if API Gateway endpoint is public or private.
+arn:aws:lambda:us-east-1:1234567890:function:dev-data-services-elastic-search,Check if API Gateway endpoint is public or private.
+arn:aws:lambda:us-east-1:1234567890:function:integ-data-services-elastic-search,Check if API Gateway Stage has logging enabled.
+arn:aws:lambda:us-east-1:1234567890:function:dev-data-services-elastic-search,Check if API Gateway Stage has logging enabled.
+arn:aws:lambda:us-east-1:1234567890:function:integ-data-services-elastic-search,Check if API Gateway Stage has a WAF ACL attached.
+arn:aws:lambda:us-east-1:1234567890:function:dev-data-services-elastic-search,Check if API Gateway Stage has a WAF ACL attached.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-deps-vuln-enricher-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-governor-stats-aggregator,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-session-term-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-sbom-vexes,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-os-android,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-resource-groups,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-ops-vendor,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-global-data-enricher-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-cyclonedx-tools-wrapper,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-data-importer-github-advisory,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-vulns-crowler-CVE,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-deps-vuln-trigger-sync,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-os-windows,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-sbom-custom-licenses,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-vulns-crowler-CRE,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-lifecycle-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-customer-data-enrichment-status-sync,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-global-data-enricher-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-integrations,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-vulns-crowler-CISA,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-spdx-tools-wrapper,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-data-importer-spdx-licenses,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-threat-intelligence-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-ops-vendor,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-normalizer-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-os-rtos,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-slackNotifyServerError,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-vulns-crowler-EPSS,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-threat-intelligence-gateway,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-users,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-session-term-sync,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-os-windows,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-vulns-processor,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-customer-data-enrichment-dispatcher,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-data-services-elastic-search,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-customer-data-enrichment-dispatcher,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-vulns-crowler-CPE,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-threat-intelligence-sync,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-session-term-sync,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-deps-vuln-trigger-sync,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-deps-vuln-trigger-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-customer-data-enricher-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-data-importer-github-advisory,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-users,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-os-rtos,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-vulns-downloader,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-vuln-enricher-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-vulns-crowler-CRE,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-sbom-vexes,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-vulns-crowler-EPSS,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-sboms,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-deps-vuln-trigger-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-threat-intelligence,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-data-importer-spdx-licenses,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-governors,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-vulns-crowler-CISA,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-spdx-tools-wrapper,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-import-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-integrations,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-sbom-policies,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-ops-data-lake,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-os-android,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-ops-data-lake,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-threat-intelligence-gateway,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-vulns-downloader,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-sbom-custom-licenses,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-vulns-crowler-CVE,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-entity-deletion-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-vulns-processor,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-governors,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-customer-data-enrichment-data-sync,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-vuln-enricher-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-entity-deletion-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-governor-stats-aggregator,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-threat-intelligence,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-os-linux,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-import-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-os-linux,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-lifecycle-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-data-services-elastic-search,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-sboms,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-resource-groups,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-sbom-policies,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-data-services-data-lake,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-customer-data-enricher-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-customer-data-enrichment-status-sync,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-threat-intelligence-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-slackNotifyServerError,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-customer-data-enrichment-data-sync,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-deps-vuln-enricher-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-session-term-queue-worker,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-threat-intelligence-sync,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-vulns-crowler-CPE,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-cyclonedx-tools-wrapper,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-data-services-data-lake,Check if Lambda functions invoke API operations are being recorded by CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-deps-vuln-enricher-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-sbom-vexes,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-resource-groups,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-global-data-enricher-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-sbom-custom-licenses,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-lifecycle-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-customer-data-enrichment-status-sync,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-global-data-enricher-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-integrations,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-normalizer-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-threat-intelligence-gateway,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-users,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-customer-data-enrichment-dispatcher,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-data-services-elastic-search,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-customer-data-enrichment-dispatcher,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-threat-intelligence-sync,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-customer-data-enricher-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-users,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-vuln-enricher-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-sbom-vexes,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-sboms,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-threat-intelligence,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-governors,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-integrations,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-sbom-policies,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-threat-intelligence-gateway,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-sbom-custom-licenses,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-governors,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-customer-data-enrichment-data-sync,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-vuln-enricher-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-threat-intelligence,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-lifecycle-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-data-services-elastic-search,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-sboms,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-admin-resource-groups,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-sbom-policies,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-data-services-data-lake,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-customer-data-enricher-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-customer-data-enrichment-status-sync,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-customer-data-enrichment-data-sync,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-sbom-deps-vuln-enricher-queue-worker,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:dev-batch-threat-intelligence-sync,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-data-services-data-lake,Find secrets in Lambda functions variables.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure that there is at least one AWS Backup plan
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Check if S3 buckets have Object-level logging for read events is enabled in CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Check if S3 buckets have Object-level logging for write events is enabled in CloudTrail.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for changes to Network Access Control Lists (NACL).
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for changes to network gateways.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for route table changes.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for VPC changes.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for AWS Config configuration changes.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for CloudTrail configuration changes.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for AWS Management Console authentication failures.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for AWS Organizations changes.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for disabling or scheduled deletion of customer created KMS CMKs.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for S3 bucket policy changes.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for IAM policy changes.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for usage of root account.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for security group changes.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for Management Console sign-in without MFA.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure a log metric filter and alarm exist for unauthorized API calls.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure AWS Config is enabled in all regions.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Check if EBS Default Encryption is activated.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Check if Glue data catalog settings have encrypt connection password enabled.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Check if Glue data catalog settings have metadata encryption enabled.
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Check if GuardDuty is enabled
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure IAM password policy expires passwords within 90 days or less
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure IAM password policy require at least one lowercase letter
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure IAM password policy requires minimum length of 14 or greater
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure IAM password policy require at least one number
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure IAM password policy prevents password reuse: 24 or greater
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure IAM password policy require at least one symbol
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Ensure IAM password policy requires at least one uppercase letter
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Check if Inspector2 findings exist
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-integrations,Check if Amazon Elasticsearch/Opensearch Service domains have audit logging enabled
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-integrations,Check if Amazon Elasticsearch/Opensearch Service domains have logging enabled
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-integrations,Check if Amazon Elasticsearch/Opensearch Service domains have encryption at-rest enabled
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-integrations,Check if Amazon Elasticsearch/Opensearch Service domains have node-to-node encryption enabled
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-integrations,Check if Amazon Opensearch/Elasticsearch domains are set as Public or if it has open policy access
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-integrations,Check if Amazon Elasticsearch/Opensearch Service domains have updates available
+arn:aws:lambda:us-east-1:1234567890:function:integ-admin-integrations,Check if Amazon Elasticsearch/Opensearch Service domains has Amazon Cognito authentication for Kibana enabled
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Resource Explorer Indexes Found
+arn:aws:lambda:us-east-1:1234567890:function:integ-batch-sbom-normalizer-queue-worker,Check S3 Account Level Public Access Block.

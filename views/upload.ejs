@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Task</title>
+
+</head>
+
+<body>
+    <div>
+        <h1>Home task Zestsecurity Data_aggregation</h1>
+    </div>
+    <div>
+        <h2>Upload Files</h2>
+    </div>
+    <form ref='uploadForm' action='/upload' method='post' encType="multipart/form-data">
+        <label>Upload the resource File :</label>
+        <input type="file" name="resourcesFile" />
+        <label>Upload the Prowler-output File :</label>
+        <input type="file" name="findingsFile" />
+        <input type='submit' value='Upload' />
+    </form>
+</body>
+
+</html>
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        height: 100vh;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column; /* added this line */
+        background-color: #f4f4f4;
+    }
+
+    form {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        margin-top: 20px; /* added this line */
+    }
+
+    input[type="file"] {
+        margin-bottom: 10px;
+    }
+
+    input[type='submit'] {
+        background-color: #007BFF;
+        color: #fff;
+        border: none;
+        padding: 10px 15px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+    input[type='submit']:hover {
+        background-color: #0056b3;
+    }
+</style>
